@@ -1,0 +1,9 @@
+# Alias
+  alias cls="clear"
+# Docker alias
+  alias dps="docker ps"
+  alias dlog="docker logs -f"
+# Git alias
+  alias gps="git push --set-upstream origin"
+  alias gcme='git config user.name "tfengaka";git config user.email "nthoa2.lhp.nh@gmail.com"'
+  alias gcwork='git config user.name "hoanguyennexlab";git config user.email "hoa.nguyen@nexlab.tech"'
